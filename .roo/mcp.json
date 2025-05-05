@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "serena": {
+      "command": "/usr/local/bin/uv",
+      "args": [
+        "run",
+        "--directory",
+        "/home/scotty/dev/scottiebt/serena",
+        "serena-mcp-server",
+        "--project-file",
+        "/home/scotty/dev/scottiebt/serena/project.yml"
+      ]
+    }
+  }
+}
